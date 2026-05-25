@@ -14,3 +14,10 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# Steps to Start and Run the project
+1. Open the project folder in VS code and then open terminal.
+2. In terminal run "npm install" or "npm i" command to install the dependencies.
+3. After all the dependencies are install then run the "npm run dev" command to run the project.
+4. Screenshots of the screens are added in screenshot folder.
